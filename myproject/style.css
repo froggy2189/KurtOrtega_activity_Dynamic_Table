@@ -55,3 +55,9 @@ tr:hover {
     background: #d6d6d6;
     transition: background 0.3s;
 }
+
+.low-stock {
+    background: #ffcccc !important; 
+    color: #b30000;                 
+    font-weight: bold;
+}
